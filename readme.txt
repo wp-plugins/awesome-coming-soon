@@ -31,9 +31,7 @@ Activate the plugin and your blog is in As Coming Soon , works and only register
 
 == Installation ==
 
-This section describes how to install the plugin and get it working.
-
-e.g.
+Manual Installation 
 
 1. Download Awesome Coming Soon Plugin
 2. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
