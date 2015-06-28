@@ -27,7 +27,7 @@ Activate the plugin and your blog is in As Coming Soon , works and only register
 * Visible only non logged user.
 * Easily update and post content in your site when “Awesome Coming Soon" is in Active mode. 
 
-[Click here to see live demo] (http://photontechs.com/awesomecomingsoon/)
+[Click here to see live demo](http://photontechs.com/awesomecomingsoon/ “Awesome Coming Soon”)
 
 == Installation ==
 
