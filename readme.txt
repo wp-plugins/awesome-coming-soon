@@ -27,6 +27,8 @@ Activate the plugin and your blog is in As Coming Soon , works and only register
 * Visible only non logged user.
 * Easily update and post content in your site when “Awesome Coming Soon" is in Active mode. 
 
+*If you have any suggestions or Questions you can contact us at [HashWP &raquo;](http://www.hashwp.com/)
+
 *[Click here to see live demo!&raquo;](http://photontechs.com/awesomecomingsoon/)
 
 == Installation ==
