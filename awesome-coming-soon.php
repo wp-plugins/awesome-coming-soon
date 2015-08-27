@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Awesome Coming Soon 
-Plugin URI: www.photontechs.com
+Plugin URI: www.hashwp.com
 Description: Flat Coming Soon WP Plugin
 Version: 1.0.
 Author: AliiRaja

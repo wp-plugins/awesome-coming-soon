@@ -1,6 +1,6 @@
 === Awesome Coming Soon ===
 Contributors:iamaliiraja
-Donate link: http://wwww.photontechs.com
+Donate link: http://wwww.hashwp.com
 Tags: comingsoon, landing page, mantaince mode 
 Requires at least: 3.0.1
 Tested up to: 4.2.2
